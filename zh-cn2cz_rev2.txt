@@ -20,28 +20,28 @@
 0.0.8.32|1|E4 BA AE E5 BA A6 E8 B0 83 E8 8A 82|亮度调节|Nastav. jasu
 0.0.8.32|1|E4 BB 8A E5 A4 A9|今天|Dnes
 0.0.8.32|1|E4 BC 98|优|OK
-0.0.8.32|1|E4 BD A9 E6 88 B4 E6 89 8B E8 A1 A8 E5 85 A5 E7 9D A1 E5 90 8E|佩戴手表入睡后|Mejte zar. pri spanku
+0.0.8.32|1|E4 BD A9 E6 88 B4 E6 89 8B E8 A1 A8 E5 85 A5 E7 9D A1 E5 90 8E|佩戴手表入睡后|Rezim se zapne autom.
 0.0.8.32|1|E5 81 9C E6 AD A2|停止|Stop
 0.0.8.32|1|E5 81 A5 E8 B5 B0|健走|Chuze
 0.0.8.32|1|E5 85 85 E7 94 B5 E4 B8 AD|充电中|Nabijeni
 0.0.8.32|1|E5 85 85 E7 94 B5 E5 AE 8C E6 88 90|充电完成|Nabito
 0.0.8.32|1|E5 85 A8 E7 A8 8B|全程|Plne
 0.0.8.32|1|E5 85 A8 E9 83 A8 E5 B7 B2 E8 AF BB 21|全部已读!|Vse precteno!
-0.0.8.32|1|E5 85 AC E9 87 8C E6 8C AF E5 8A A8 E6 8F 90 E9 86 92|公里振动提醒|Vibrovat kazdy km.
+0.0.8.32|1|E5 85 AC E9 87 8C E6 8C AF E5 8A A8 E6 8F 90 E9 86 92|公里振动提醒| km upozornit vibr
 0.0.8.32|0002D030,0003C660,00047B54,00049974|E5 85 AC E9 87 8C|公里|Km
 0.0.8.32|1|E5 85 B3 E4 BA 8E|关于|Info
-0.0.8.32|0003C6C4,00042198|E5 85 B3 E6 9C BA|关机|Vypni
-0.0.8.32|0002CAC0,0002CBDC|E5 85 B3 E9 97 AD|关闭|Zavren
+0.0.8.32|0003C6C4,00042198|E5 85 B3 E6 9C BA|关机|Vypn.
+0.0.8.32|0002CAC0,0002CBDC|E5 85 B3 E9 97 AD|关闭|Zadna
 0.0.8.32|1|E5 86 BB E9 9B A8|冻雨|Naledi
 0.0.8.32|1|E5 88 86|分|Min
 0.0.8.32|1|E5 88 9A E5 88 9A E5 85 B3 E7 88 B1 E4 BA 86 E4 BD A0 E4 B8 80 E4 B8 8B|刚刚关爱了你一下|Jen se o vas zajimam :)
-0.0.8.32|1|E5 8B BF E6 89 B0 E5 B7 B2 E5 85 B3 E9 97 AD|勿扰已关闭|Nevypinejte
-0.0.8.32|1|E5 8B BF E6 89 B0 E5 B7 B2 E5 BC 80 E5 90 AF|勿扰已开启|Nezapinejte
-0.0.8.32|1|E6 99 BA E8 83 BD E5 8B BF E6 89 B0 E5 B7 B2 E5 BC 80 E5 90 AF|智能勿扰已开启|Smart DND se nezapne
+0.0.8.32|1|E5 8B BF E6 89 B0 E5 B7 B2 E5 85 B3 E9 97 AD|勿扰已关闭|DND vypnuto
+0.0.8.32|1|E5 8B BF E6 89 B0 E5 B7 B2 E5 BC 80 E5 90 AF|勿扰已开启|DND zapnuto
+0.0.8.32|1|E6 99 BA E8 83 BD E5 8B BF E6 89 B0 E5 B7 B2 E5 BC 80 E5 90 AF|智能勿扰已开启|Smart DND
 0.0.8.32|1|E5 8C 97|北|S
 0.0.8.32|1|E5 8D 83 E5 8D A1|千卡|Kcal
 0.0.8.32|1|E5 8D 97|南|J
-0.0.8.32|00026F60,000291A0,0003C660,00047B54,00049974|E5 8F 96 E6 B6 88|取消|Zrusit
+0.0.8.32|00026F60,000291A0,0003C660,00047B54,00049974|E5 8F 96 E6 B6 88|取消|Ne
 0.0.8.32|1|E5 8F AF E5 8A A0 E5 BF AB 47 50 53 E5 AE 9A E4 BD 8D|可加快GPS定位|Muze zrych.GPS fix
 0.0.8.32|1|E5 9B BA E4 BB B6 E7 89 88 E6 9C AC|固件版本|Verze firmw.
 0.0.8.32|1|E5 9D 87 E9 80 9F|均速|Rychl.
@@ -52,21 +52,21 @@
 0.0.8.32|1|E5 A4 A7 E6 9A B4 E9 9B A8|大暴雨|Siln.Dest
 0.0.8.32|1|E5 A4 A7 E9 9B A8|大雨|Lijak
 0.0.8.32|1|E5 A4 A7 E9 9B AA|大雪|Snez.
-0.0.8.32|1|E5 AE 9A E4 BD 8D E6 88 90 E5 8A 9F E4 B9 8B E5 89 8D|定位成功之前|Nez se GPS chytne
-0.0.8.32|1|E5 AE 9A E4 BD 8D E6 88 90 E5 8A 9F|定位成功|Pozice nalez
+0.0.8.32|1|E5 AE 9A E4 BD 8D E6 88 90 E5 8A 9F E4 B9 8B E5 89 8D|定位成功之前|Nez se GPS fixne
+0.0.8.32|1|E5 AE 9A E4 BD 8D E6 88 90 E5 8A 9F|定位成功|Poz.Nalezena
 0.0.8.32|1|E5 AE A4 E5 86 85 E8 B7 91|室内跑|Beh - pas
-0.0.8.32|1|E5 B0 86 E6 97 A0 E6 B3 95 E8 AE B0 E5 BD 95 E8 BF 90 E5 8A A8 E8 BD A8 E8 BF B9|将无法记录运动轨迹|Trasa nemuze byt ulozena
+0.0.8.32|1|E5 B0 86 E6 97 A0 E6 B3 95 E8 AE B0 E5 BD 95 E8 BF 90 E5 8A A8 E8 BD A8 E8 BF B9|将无法记录运动轨迹|nebude trasa ulozena
 0.0.8.32|1|E5 B0 8F E5 88 B0 E4 B8 AD E9 9B A8|小到中雨|Mirny dest
 0.0.8.32|1|E5 B0 8F E5 88 B0 E4 B8 AD E9 9B AA|小到中雪|Mirn.Snezeni
 0.0.8.32|1|E5 B0 8F E9 9B A8|小雨|Dest
 0.0.8.32|1|E5 B0 8F E9 9B AA|小雪|Snih
-0.0.8.32|2c338|E5 B7 A5 E4 BD 9C E6 97 A5|工作日|Prac. den
-0.0.8.32|1|E5 B7 B2 E5 85 B3 E9 97 AD|已关闭|Uzavreno
-0.0.8.32|1|E5 B7 B2 E5 BC 80 E5 90 AF|已开启|Otevreno
+0.0.8.32|2c338|E5 B7 A5 E4 BD 9C E6 97 A5|工作日|Prac. dny
+0.0.8.32|1|E5 B7 B2 E5 85 B3 E9 97 AD|已关闭|Vypnuto
+0.0.8.32|1|E5 B7 B2 E5 BC 80 E5 90 AF|已开启|Zapnuto
 0.0.8.32|1|E5 B7 B2 E6 9A 82 E5 81 9C|已暂停|Pozastav.
-0.0.8.32|1|E5 BC 80 E5 90 AF E6 96 B9 E5 BC 8F|开启方式|Otevr. rezim
+0.0.8.32|1|E5 BC 80 E5 90 AF E6 96 B9 E5 BC 8F|开启方式|Zvolte rezim
 0.0.8.32|1|E5 BC 80 E5 A7 8B|开始|Zacni
-0.0.8.32|46674|E5 BC 80 E9 98 94 E5 9C BA E5 9C B0 E4 BF A1 E5 8F B7 E6 9B B4 E4 BD B3|开阔场地信号更佳|Presna GPS-otevr. prostr
+0.0.8.32|46674|E5 BC 80 E9 98 94 E5 9C BA E5 9C B0 E4 BF A1 E5 8F B7 E6 9B B4 E4 BD B3|开阔场地信号更佳|Nejlepe na otevr. prost.
 0.0.8.32|1|E5 BD 93 E5 89 8D E5 A4 A9 E6 B0 94 E8 8E B7 E5 8F 96 E5 A4 B1 E8 B4 A5|当前天气获取失败|Ziskavani pocasi selhalo
 0.0.8.32|1|E5 BE AE E4 BF A1 E7 BA A2 E5 8C 85|微信红包|NEPRELOZ1
 0.0.8.32|1|E5 BF 83 E7 8E 87 E6 8F 90 E9 86 92|心率提醒|Upoz. na tep
@@ -94,7 +94,7 @@
 0.0.8.32|1|E6 9A B4 E9 9B A8 E5 88 B0 E5 A4 A7 E6 9A B4 E9 9B A8|暴雨到大暴雨|Dest az silny dest
 0.0.8.32|1|E6 9A B4 E9 9B A8|暴雨|Lijak
 0.0.8.32|1|E6 9A B4 E9 9B AA|暴雪|Bourka
-0.0.8.32|1|E6 9B B4 E5 A4 9A E8 BF 90 E5 8A A8 E5 8E 86 E5 8F B2|更多运动历史|Historie cviceni
+0.0.8.32|1|E6 9B B4 E5 A4 9A E8 BF 90 E5 8A A8 E5 8E 86 E5 8F B2|更多运动历史|Dalsi historii
 0.0.8.32|1|E6 9C AA E5 90 8C E6 AD A5 E7 9A 84 E8 BF 90 E5 8A A8 E6 95 B0 E6 8D AE|未同步的运动数据|Nezarazena data o pohybu
 0.0.8.32|1|E6 9D A1 E6 96 B0 E6 B6 88 E6 81 AF EF BC 8C 20 E8 AF B7 E5 9C A8 E6 89 8B E6 9C BA E6 9F A5 E7 9C 8B E3 80 82|条新消息， 请在手机查看。|Nova SMS zprava. Zobrazte na telefonu
 0.0.8.32|1|E6 9D A5 E7 94 B5|来电|Hovor
@@ -107,14 +107,14 @@
 0.0.8.32|1|E6 AD A5 E5 B7 B2 E8 BE BE E6 88 90|步已达成|Cil dosazen!
 0.0.8.32|1|E6 AD A5 E6 95 B0|步数|Kroky
 0.0.8.32|1|E6 AD A5 E9 A2 91|步频|Frekv.
-0.0.8.32|1|E6 AF 8F E5 91 A8|每周|Tydne
+0.0.8.32|1|E6 AF 8F E5 91 A8|每周|Vikend
 0.0.8.32|1|E6 AF 8F E5 A4 A9|每天|Denne
-0.0.8.32|1|E6 AF 8F|每|Vzd
+0.0.8.32|1|E6 AF 8F|每|Co 
 0.0.8.32|1|E6 B2 A1 E6 9C 89 E6 96 B0 E7 9A 84 E9 80 9A E7 9F A5|没有新的通知|Zadna notifikace
 0.0.8.32|1|E6 B2 A1 E6 9C 89 E8 AE BE E5 AE 9A E9 97 B9 E9 92 9F|没有设定闹钟|Alarm nenastaven
 0.0.8.32|1|E6 B5 AE E5 B0 98|浮尘|Prach
 0.0.8.32|1|E6 B6 88 E8 80 97|消耗|Spotr.
-0.0.8.32|1|E6 B8 85 E7 A9 BA|清空|Prazd.
+0.0.8.32|1|E6 B8 85 E7 A9 BA|清空|Smazat
 0.0.8.32|1|E7 83 AD E8 BA AB|热身|Zahrat
 0.0.8.32|1|E7 87 83 E8 84 82|燃脂|- tuky
 0.0.8.32|1|E7 88 AC E5 9D A1 E8 B7 9D E7 A6 BB|爬坡距离|Vystoupano
@@ -122,11 +122,11 @@
 0.0.8.32|1|E7 94 A8 E6 97 B6|用时|Trvani
 0.0.8.32|1|E7 94 B5 E9 87 8F|电量|NEPRE3
 0.0.8.32|00039F84,0004282C,00045D8C,000465EC,00047EF8,00047FF0|E7 9F A5 E9 81 93 E4 BA 86|知道了|Rozumim
-0.0.8.32|1|E7 A1 AE E5 AE 9A|确定|OK
+0.0.8.32|1|E7 A1 AE E5 AE 9A|确定|Ano
 0.0.8.32|1|E7 A1 AE E5 AE 9A E4 BD BF E7 94 A8 E8 AF A5 E8 A1 A8 E7 9B 98 3F|确定使用该表盘?|Zvolit cifernik
 0.0.8.32|1|E7 A1 AE E5 AE 9A E5 85 B3 E9 97 AD E6 89 8B E8 A1 A8 3F|确定关闭手表?|Opravdu vypnout?
 0.0.8.32|1|E7 A1 AE E5 AE 9A E7 BB 93 E6 9D 9F|确定结束|Ano, vypnout
-0.0.8.32|1|E7 A1 AE E5 AE 9A E7 BB 93 E6 9D 9F 3F|确定结束?|Fakt ukoncit?
+0.0.8.32|1|E7 A1 AE E5 AE 9A E7 BB 93 E6 9D 9F 3F|确定结束?|Ukoncit?
 0.0.8.32|1|E7 A1 AE E5 AE 9A E7 BB 93 E6 9D 9F E5 80 92 E8 AE A1 E6 97 B6 3F|确定结束倒计时?|Ukoncit odpocet?
 0.0.8.32|1|E7 A1 AE E5 AE 9A E7 BB 93 E6 9D 9F E7 A7 92 E8 A1 A8 3F|确定结束秒表?|Ukoncit stopky?
 0.0.8.32|00024424|E7 A7 92|秒|Sek
@@ -134,35 +134,35 @@
 0.0.8.32|1|E7 A9 BA E9 97 B4 E4 B8 8D E8 B6 B3 2C 20 E6 98 AF E5 90 A6 E7 BB A7 E7 BB AD 3F|空间不足, 是否继续?|Nedostatek mista, pokrac.?
 0.0.8.32|1|E7 A9 BA E9 97 B4 E5 8D B3 E5 B0 86 E7 94 A8 E5 B0 BD|空间即将用尽|Dochazi misto
 0.0.8.32|1|E7 A9 BA E9 97 B4 E5 B7 B2 E7 94 A8 E5 B0 BD|空间已用尽|Pamet je plna
-0.0.8.32|1|E7 AB 8B E5 8D B3 E5 BC 80 E5 90 AF|立即开启|Otevrit hned
+0.0.8.32|1|E7 AB 8B E5 8D B3 E5 BC 80 E5 90 AF|立即开启|Zapnout
 0.0.8.32|1|E7 B4 AF E8 AE A1 E4 B8 8B E9 99 8D|累计下降|Sestoupano
 0.0.8.32|1|E7 B4 AF E8 AE A1 E7 88 AC E5 8D 87|累计爬升|Vystoupano
 0.0.8.32|1|E7 A1 AE E5 AE 9A E7 BB 93 E6 9D 9F|确定结束|Ano, ukoncit
 0.0.8.32|00046468,00046468,|E7 BB 93 E6 9D 9F|结束|Konec
-0.0.8.32|1|E7 BB 95 38 E5 AD 97 E6 9D A5 E5 AE 8C E6 88 90 E6 A0 A1 E5 87 86|绕8字来完成校准|Zacvic nebo projdi se
+0.0.8.32|1|E7 BB 95 38 E5 AD 97 E6 9D A5 E5 AE 8C E6 88 90 E6 A0 A1 E5 87 86|绕8字来完成校准|Pohybujte zapestim
 0.0.8.32|1|E7 BB A7 E7 BB AD|继续|Pokr.
 0.0.8.32|47cd0|E7 BB A7 E7 BB AD E5 B0 86 E4 BC 9A E8 A6 86 E7 9B 96 E9 83 A8 E5 88 86|继续将会覆盖部分|NEPRELOZENO4
 0.0.8.32|1|E8 80 90 E5 8A 9B|耐力|Vytrv.
-0.0.8.32|1|E8 87 AA E5 8A A8 E5 BC 80 E5 90 AF E5 8B BF E6 89 B0|自动开启勿扰|Zapnout automat.
+0.0.8.32|1|E8 87 AA E5 8A A8 E5 BC 80 E5 90 AF E5 8B BF E6 89 B0|自动开启勿扰|pri detekci spanku
 0.0.8.32|1|E8 93 9D E7 89 99 E5 9C B0 E5 9D 80|蓝牙地址|Adresa BT
 0.0.8.32|1|E8 A5 BF E5 8C 97|西北|SZ
 0.0.8.32|1|E8 A5 BF E5 8D 97|西南|JZ
 0.0.8.32|1|E8 A5 BF|西|Z
 0.0.8.32|1|E8 AE BE E5 AE 9A E9 97 B9 E9 92 9F|设定闹钟|Nast. budik
 0.0.8.32|1|E8 AE BE E7 BD AE E8 A1 A8 E7 9B 98|设置表盘|Nast. cifer.
-0.0.8.32|1|E8 AE BE E7 BD AE E9 95 BF E6 8C 89 E5 BF AB E9 80 9F E5 90 AF E5 8A A8 E9 A1 B9|设置长按快速启动项|Nast. dlouhy stisk tlacitka
-0.0.8.32|1|E8 AF B7 E4 BD A9 E6 88 B4 E6 89 8B E8 A1 A8|请佩戴手表|Noste zarizeni
-0.0.8.32|1|E8 AF B7 E5 9C A8 41 50 50 E7 AB AF E6 9F A5 E7 9C 8B|请在APP端查看|Zkontr. v aplikaci
+0.0.8.32|1|E8 AE BE E7 BD AE E9 95 BF E6 8C 89 E5 BF AB E9 80 9F E5 90 AF E5 8A A8 E9 A1 B9|设置长按快速启动项|Akce na stisk tlacitka
+0.0.8.32|1|E8 AF B7 E4 BD A9 E6 88 B4 E6 89 8B E8 A1 A8|请佩戴手表|Kalibr. kompas
+0.0.8.32|1|E8 AF B7 E5 9C A8 41 50 50 E7 AB AF E6 9F A5 E7 9C 8B|请在APP端查看|zobrazite v aplik.
 0.0.8.32|1|E8 AF B7 E5 B0 BD E5 BF AB E5 85 85 E7 94 B5 E3 80 82|请尽快充电。|Okamzite nabijte
 0.0.8.32|1|E8 AF B7 E5 B0 BD E5 BF AB E5 90 8C E6 AD A5 E6 95 B0 E6 8D AE|请尽快同步数据|Okamzite synchroniz.
 0.0.8.32|1|E8 AF B7 E6 89 93 E5 BC 80 E5 B0 8F E7 B1 B3 E8 BF 90 E5 8A A8 41 50 50|请打开小米运动APP|Prosim otevrete MiFit
 0.0.8.32|000389C0,00038A2C|E8 AF B7 E7 BB 99 E6 89 8B E8 A1 A8 E5 85 85 E7 94 B5|请给手表充电|Nabijte hodinky
-0.0.8.32|1|E8 AF B7 E9 95 BF E6 8C 89 E6 89 8B E8 A1 A8 E6 8C 89 E9 94 AE E6 9A 82 E5 81 9C|请长按手表按键暂停|Zmack. tlacitko k pozastav.
+0.0.8.32|1|E8 AF B7 E9 95 BF E6 8C 89 E6 89 8B E8 A1 A8 E6 8C 89 E9 94 AE E6 9A 82 E5 81 9C|请长按手表按键暂停|Dlouhy stisk k pozastav.
 0.0.8.32|0002D968|E8 B5 84 E6 BA 90 E5 BA 93 E5 8D 87 E7 BA A7 E4 B8 AD|资源库升级中|Aktual. zdroju
 0.0.8.32|1|E8 B5 84 E6 BA 90 E5 BA 93 E5 8D 87 E7 BA A7 E5 A4 B1 E8 B4 A5|资源库升级失败|Zdroje aktualizovany
 0.0.8.32|1|E8 B5 B7 E6 9D A5 E6 B4 BB E5 8A A8 E4 B8 80 E4 BC 9A E5 90 A7|起来活动一会吧|Zvednete se na chvili
 0.0.8.32|1|E8 B7 91 E6 AD A5|跑步|Beh
-0.0.8.32|1|E8 B7 9D E7 A6 BB E5 A4 AA E7 9F AD E5 B0 86 E4 B8 8D E4 BC 9A E4 BF 9D E5 AD 98|距离太短将不会保存|Moc kratka trasa, ignoruji
+0.0.8.32|1|E8 B7 9D E7 A6 BB E5 A4 AA E7 9F AD E5 B0 86 E4 B8 8D E4 BC 9A E4 BF 9D E5 AD 98|距离太短将不会保存|Kratka trasa, neulozi se.
 0.0.8.32|1|E8 B7 9D E7 A6 BB E6 8F 90 E9 86 92|距离提醒|Upoz. vzdal.
 0.0.8.32|1|E8 B7 B3 E8 BF 87|跳过|Presk.
 0.0.8.32|1|E8 BD BB E5 BA A6 E6 B1 A1 E6 9F 93|轻度污染|Polojasno
@@ -187,5 +187,5 @@
 0.0.8.32|00035AF8|E6 9D A1 E6 9C AA E5 90 8C E6 AD A5|条未同步|Nesynchr.
 0.0.8.32|00042980|E8 AF B7 E9 80 89 E6 8B A9 E5 8B BF E6 89 B0|请选择勿扰|Nerusit
 0.0.8.32|0002D534|E6 AD A5|步|Kr.
-0.0.8.32|000475C4|E5 BF 83 E7 8E 87 E8 B6 85 E5 87 BA E6 97 B6 E6 8F 90 E9 86 92|心率超出时提醒|Upoz. konec mer. tepu
+0.0.8.32|000475C4|E5 BF 83 E7 8E 87 E8 B6 85 E5 87 BA E6 97 B6 E6 8F 90 E9 86 92|心率超出时提醒|Min. hodnota tepu
 0.0.8.32|0003874C|E6 88 B7 E5 A4 96 E8 B7 91|户外跑|Venk. beh
